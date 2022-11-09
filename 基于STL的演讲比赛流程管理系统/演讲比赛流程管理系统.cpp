@@ -9,6 +9,9 @@ int main() {
 
 	cout << "v2.2 text" << endl;
 
+	cout << "v3.0" << endl;
+	
+	cout << "v4.0" << endl;
 	SpeechManager sm;
 	int choice = 0; //用来存储用户的选项
 	while (true)
