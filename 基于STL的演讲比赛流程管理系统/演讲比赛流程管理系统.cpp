@@ -4,7 +4,7 @@ using namespace std;
 #include "speechManager.h"
 int main() { 
 
-	cout << "v2.0" << endl;
+	cout << "v2.1 master" << endl;
 	SpeechManager sm;
 	int choice = 0; //用来存储用户的选项
 	while (true)
